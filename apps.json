@@ -1,0 +1,206 @@
+[
+  {
+    "id": "nexus-stellar",
+    "name": "Nexus Stellar",
+    "tagline": "Explore the vast unknown in this epic space RPG.",
+    "fullDescription": "Dive into Nexus Stellar, a breathtaking sci-fi adventure where you command your own starship. Discover uncharted planets, engage in tactical fleet battles, and trade across a massive, living galaxy.\n\nWith console-quality graphics and a deep, branching narrative, your choices shape the fate of the cosmos. Will you be a benevolent explorer, a ruthless pirate, or a master trader? The universe is yours to conquer.",
+    "category": "Games",
+    "version": "2.4.1",
+    "sizeMb": 854,
+    "iconUrl": "images/icon-forge.png",
+    "screenshots": [
+      "images/screen-game-1.png",
+      "images/screen-game-1.png",
+      "images/screen-game-1.png"
+    ],
+    "downloadUrl": "https://example.com/download/nexus-stellar.apk",
+    "downloadsBase": 124500
+  },
+  {
+    "id": "forge-optimizer",
+    "name": "Forge Optimizer",
+    "tagline": "Deep system cleaning and battery management.",
+    "fullDescription": "Keep your device running like new with Forge Optimizer. Our advanced algorithms detect redundant files, clear deep cache, and manage background processes to ensure maximum battery life and performance.\n\nWhether you are a power user needing granular control over app permissions, or just looking for a simple one-tap boost, Forge provides the ultimate toolkit for Android maintenance.",
+    "category": "Tools",
+    "version": "5.1.0",
+    "sizeMb": 42,
+    "iconUrl": "images/icon-forge.png",
+    "screenshots": [
+      "images/screen-tool-1.png",
+      "images/screen-tool-1.png",
+      "images/screen-tool-1.png"
+    ],
+    "downloadUrl": "https://example.com/download/forge-optimizer.apk",
+    "downloadsBase": 890200
+  },
+  {
+    "id": "pulse-connect",
+    "name": "Pulse Connect",
+    "tagline": "A new wave of meaningful social interaction.",
+    "fullDescription": "Pulse Connect strips away the noise and algorithm-driven feeds, bringing you back to what matters: real connection. Share moments with close friends, join niche communities, and enjoy high-quality voice and video calls.\n\nEnd-to-end encrypted messaging ensures your privacy is always protected. Express yourself with customizable profiles and an ad-free timeline that respects your attention.",
+    "category": "Social",
+    "version": "1.8.3",
+    "sizeMb": 115,
+    "iconUrl": "images/icon-pulse.png",
+    "screenshots": [
+      "images/screen-social-1.png",
+      "images/screen-social-1.png",
+      "images/screen-social-1.png"
+    ],
+    "downloadUrl": "https://example.com/download/pulse-connect.apk",
+    "downloadsBase": 45000
+  },
+  {
+    "id": "focus-flow",
+    "name": "Focus Flow",
+    "tagline": "Your ultimate personal productivity suite.",
+    "fullDescription": "Master your day with Focus Flow. Combine intelligent task management, Pomodoro timers, and rich habit tracking in one beautifully designed workspace. Our minimalist interface keeps distractions at bay.\n\nSync seamlessly across all your devices, collaborate on shared lists, and view detailed analytics on your productivity trends. Build better habits, one focused session at a time.",
+    "category": "Productivity",
+    "version": "3.0.5",
+    "sizeMb": 68,
+    "iconUrl": "images/icon-focus.png",
+    "screenshots": [
+      "images/screen-prod-1.png",
+      "images/screen-prod-1.png",
+      "images/screen-prod-1.png"
+    ],
+    "downloadUrl": "https://example.com/download/focus-flow.apk",
+    "downloadsBase": 312000
+  },
+  {
+    "id": "cyber-drift",
+    "name": "Cyber Drift",
+    "tagline": "High-octane neon racing.",
+    "fullDescription": "Race through rain-slicked cyberpunk cities in highly customizable hover-cars. Master the art of drifting to build boost and leave your rivals in the dust.\n\nCompete in intense online multiplayer leagues or conquer the gritty underground single-player campaign.",
+    "category": "Games",
+    "version": "1.2.0",
+    "sizeMb": 1200,
+    "iconUrl": "images/icon-forge.png",
+    "screenshots": [
+      "images/screen-game-1.png",
+      "images/screen-game-1.png",
+      "images/screen-game-1.png"
+    ],
+    "downloadUrl": "https://example.com/download/cyber-drift.apk",
+    "downloadsBase": 88400
+  },
+  {
+    "id": "nova-launcher-pro",
+    "name": "Nova Dash",
+    "tagline": "Transform your home screen.",
+    "fullDescription": "Nova Dash is a hyper-customizable replacement for your default launcher. Apply icon packs, change grid sizes, and use powerful gesture controls to navigate your phone faster than ever.\n\nLightweight, blazing fast, and deeply personalizable. Make your phone truly yours.",
+    "category": "Tools",
+    "version": "8.0.2",
+    "sizeMb": 24,
+    "iconUrl": "images/icon-forge.png",
+    "screenshots": [
+      "images/screen-tool-1.png",
+      "images/screen-tool-1.png",
+      "images/screen-tool-1.png"
+    ],
+    "downloadUrl": "https://example.com/download/nova-dash.apk",
+    "downloadsBase": 2500000
+  },
+  {
+    "id": "stream-hub",
+    "name": "Stream Hub",
+    "tagline": "All your entertainment in one place.",
+    "fullDescription": "Aggregate your favorite streaming services, track what you are watching, and get smart recommendations based on your taste. Stream Hub is the ultimate companion for movie buffs and binge-watchers.\n\nCreate custom watchlists and get notified when new episodes drop.",
+    "category": "Entertainment",
+    "version": "4.5.1",
+    "sizeMb": 92,
+    "iconUrl": "images/icon-pulse.png",
+    "screenshots": [
+      "images/screen-social-1.png",
+      "images/screen-social-1.png",
+      "images/screen-social-1.png"
+    ],
+    "downloadUrl": "https://example.com/download/stream-hub.apk",
+    "downloadsBase": 512000
+  },
+  {
+    "id": "write-mind",
+    "name": "WriteMind",
+    "tagline": "Distraction-free markdown editor.",
+    "fullDescription": "A serene writing environment for novelists, bloggers, and note-takers. WriteMind uses markdown formatting to keep your hands on the keyboard and your eyes on the text.\n\nFeatures include dark mode, cloud sync, export to PDF/ePub, and daily word count goals.",
+    "category": "Productivity",
+    "version": "2.1.0",
+    "sizeMb": 35,
+    "iconUrl": "images/icon-focus.png",
+    "screenshots": [
+      "images/screen-prod-1.png",
+      "images/screen-prod-1.png",
+      "images/screen-prod-1.png"
+    ],
+    "downloadUrl": "https://example.com/download/write-mind.apk",
+    "downloadsBase": 120500
+  },
+  {
+    "id": "pixel-battle",
+    "name": "Pixel Battle Royale",
+    "tagline": "Fast-paced retro shooter.",
+    "fullDescription": "Drop onto a massive island, scavenge for 8-bit weapons, and survive against 99 other players in this retro-styled battle royale.\n\nQuick 5-minute matches make it the perfect game for playing on the go. Collect skins, unlock emotes, and climb the global leaderboards.",
+    "category": "Games",
+    "version": "1.0.9",
+    "sizeMb": 156,
+    "iconUrl": "images/icon-forge.png",
+    "screenshots": [
+      "images/screen-game-1.png",
+      "images/screen-game-1.png",
+      "images/screen-game-1.png"
+    ],
+    "downloadUrl": "https://example.com/download/pixel-battle.apk",
+    "downloadsBase": 990000
+  },
+  {
+    "id": "secure-vault",
+    "name": "Secure Vault VPN",
+    "tagline": "Browse safely and anonymously.",
+    "fullDescription": "Military-grade encryption for your mobile connection. Secure Vault VPN masks your IP address, bypasses geo-restrictions, and protects your data on public Wi-Fi networks.\n\nNo logs policy, unlimited bandwidth, and servers in over 50 countries.",
+    "category": "Tools",
+    "version": "6.3.0",
+    "sizeMb": 58,
+    "iconUrl": "images/icon-forge.png",
+    "screenshots": [
+      "images/screen-tool-1.png",
+      "images/screen-tool-1.png",
+      "images/screen-tool-1.png"
+    ],
+    "downloadUrl": "https://example.com/download/secure-vault.apk",
+    "downloadsBase": 1800000
+  },
+  {
+    "id": "vibe-music",
+    "name": "Vibe Player",
+    "tagline": "High-fidelity local music player.",
+    "fullDescription": "Rediscover your offline music collection with Vibe Player. Supports FLAC, ALAC, and all major audio formats with a powerful 10-band equalizer.\n\nGorgeous dynamic themes that adapt to album art, gapless playback, and automatic lyric fetching make it the audiophile's choice.",
+    "category": "Entertainment",
+    "version": "3.4.2",
+    "sizeMb": 45,
+    "iconUrl": "images/icon-pulse.png",
+    "screenshots": [
+      "images/screen-social-1.png",
+      "images/screen-social-1.png",
+      "images/screen-social-1.png"
+    ],
+    "downloadUrl": "https://example.com/download/vibe-music.apk",
+    "downloadsBase": 420000
+  },
+  {
+    "id": "lens-craft",
+    "name": "Lens Craft",
+    "tagline": "Pro-level photo editing on mobile.",
+    "fullDescription": "Unleash your creativity with desktop-class photo editing tools. Adjust curves, use selective masking, apply cinematic color grades, and remove unwanted objects with AI.\n\nSupports RAW format editing. Export your masterpieces in stunning high resolution without quality loss.",
+    "category": "Productivity",
+    "version": "4.8.1",
+    "sizeMb": 180,
+    "iconUrl": "images/icon-focus.png",
+    "screenshots": [
+      "images/screen-prod-1.png",
+      "images/screen-prod-1.png",
+      "images/screen-prod-1.png"
+    ],
+    "downloadUrl": "https://example.com/download/lens-craft.apk",
+    "downloadsBase": 650000
+  }
+]
